@@ -1,1 +1,1 @@
-<?php echo "Servidor:"; echo gethostname();echo "\n"; ?>
+<?php echo "Servidor html:"; echo gethostname();echo "\n"; ?>
